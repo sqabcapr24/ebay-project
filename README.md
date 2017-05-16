@@ -1,12 +1,13 @@
-# Basic Project
-## Basic Project Structure
+# Ebay Project
 
-*Default Structure for A Basic Project*
+*Autoatmion test for Ebay*
 
 **Java 8**
 
 * Maven
-* JUnit
+* TestNG
+* Selenium WebDriver 2.53.2
+* Log4j
 
 Java Project for SQA Boot Camp Program. 
 
